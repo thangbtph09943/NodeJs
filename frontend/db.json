@@ -1,0 +1,91 @@
+{
+  "products": [
+    {
+      "id": "19",
+      "categoryId": "2",
+      "name": "thangno3",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/458ec6c5-2035-4596-a234-226ec22525a0/kd14-ep-basketball-shoe-8xhLgp.png",
+      "price": "777777777775",
+      "status": false,
+      "quantity": 22855,
+      "category": "2",
+      "description": "thangthangthangthangthangthang11"
+    },
+    {
+      "id": "20",
+      "categoryId": "1",
+      "name": "KD14 EP",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/458ec6c5-2035-4596-a234-226ec22525a0/kd14-ep-basketball-shoe-8xhLgp.png",
+      "price": "999.999",
+      "description": "Unfashion visionary Mimi Plange follows her own rules.",
+      "status": false,
+      "quantity": 22855
+    },
+    {
+      "id": "21",
+      "categoryId": "2",
+      "name": "Nike Cosmic Unity",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cde221ba-ec30-4eb4-ae30-43ac0d548968/cosmic-unity-basketball-shoe-B3qDKv.png",
+      "price": "999.999",
+      "description": "Unfashion visionary Mimi Plange follows her own rules.",
+      "status": false,
+      "quantity": 22855
+    },
+    {
+      "id": "22",
+      "categoryId": "1",
+      "name": "KD14 EP",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/458ec6c5-2035-4596-a234-226ec22525a0/kd14-ep-basketball-shoe-8xhLgp.png",
+      "price": "999.999",
+      "description": "Unfashion visionary Mimi Plange follows her own rules.",
+      "status": false,
+      "quantity": 22855
+    },
+    {
+      "id": "23",
+      "categoryId": "1",
+      "name": "KD14 EP",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/458ec6c5-2035-4596-a234-226ec22525a0/kd14-ep-basketball-shoe-8xhLgp.png",
+      "price": "999.999",
+      "description": "Unfashion visionary Mimi Plange follows her own rules.",
+      "status": false,
+      "quantity": 22855
+    },
+    {
+      "id": "24",
+      "categoryId": "1",
+      "name": "KD14 EP",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/458ec6c5-2035-4596-a234-226ec22525a0/kd14-ep-basketball-shoe-8xhLgp.png",
+      "price": "999.999",
+      "description": "Unfashion visionary Mimi Plange follows her own rules.",
+      "status": false,
+      "quantity": 22855
+    },
+    {
+      "id": "kvyzeed2s",
+      "name": "thangbtph0943",
+      "description": "thangthangthangthangthangthang11",
+      "price": "999",
+      "category": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6544d.appspot.com/o/images%2Fundefined?alt=media&token=13c9d151-f2c8-48fa-81e3-c0b9f4c30a15"
+    },
+    {
+      "id": "7371oereg",
+      "name": "thangtest 1",
+      "description": "thangtest 1thangtest 1thangtest 1vthangtest 1thangtest 1",
+      "price": "999",
+      "categoryId": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shop-6544d.appspot.com/o/images%2Fundefined?alt=media&token=db898190-433f-454d-bf7f-c8bbcfb2948c"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Men"
+    },
+    {
+      "id": "2",
+      "name": "Women"
+    }
+  ]
+}
